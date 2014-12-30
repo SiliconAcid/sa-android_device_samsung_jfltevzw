@@ -30,7 +30,7 @@
 TARGET_OTA_ASSERT_DEVICE := jfltevzw
 
 # Kernel
-TARGET_KERNEL_CONFIG         := jf_vzw_defconfig
+TARGET_KERNEL_CONFIG := jf_vzw_defconfig
 
 # loki
-TARGET_RELEASETOOLS_EXTENSIONS := device/samsung/jf-common/loki
+TARGET_RELEASETOOLS_EXTENSIONS := device/samsung/jfltevzw/releasetools
